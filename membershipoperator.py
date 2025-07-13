@@ -1,4 +1,4 @@
-n = 'Jaswanth'
+kugn = 'Jaswanth'
 print('a' in n)
 print('e' in n)
 print('i' in n)
